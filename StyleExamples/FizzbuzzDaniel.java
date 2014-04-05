@@ -2,7 +2,7 @@
  *
  * @author Daniel Atkinson
  */
-public class Fizzbuzz {
+public class FizzbuzzDaniel {
     public static void main(String[] args) 
     {
         for (int n = 1;n<=100;n++)
